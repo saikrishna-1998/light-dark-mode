@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.mode-container {
+  text-align: center;
+  color: white;
+  padding: 15px;
+  margin: 36vw;
+  border-radius: 5px;
+}
+
+.container {
+  text-align: center;
+  border-radius: 12px;
+  border: 2px solid;
+  padding: 24px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.button {
+  font-size: 16px;
+  border: 1px solid;
+  padding: 16px;
+  border-radius: 8px;
+}
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+.change-button {
+  font-size: 16px;
+  border: 1px solid;
+  padding: 16px;
+  border-radius: 8px;
+}
